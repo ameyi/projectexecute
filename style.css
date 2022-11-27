@@ -1,0 +1,26 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+body{
+    text-align: center;
+    background-color: red;
+}
+img{
+    width: 100%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    position: fixed;
+}
+.travel_mainDIV{
+    text-align: center;
+    font: bold;
+    margin: auto;
+}
